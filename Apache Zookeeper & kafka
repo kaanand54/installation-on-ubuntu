@@ -1,4 +1,5 @@
 Follow the procedure to install Apache zookeeper & kafka on your ubuntu
+References Digital ocean comunity.    link : https://www.digitalocean.com/community/tutorials/how-to-install-apache-kafka-on-ubuntu-14-04
 
 Step 1:
             your machine should have already installed JRE, if not please install 
